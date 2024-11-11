@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning NextJS, exploring advanced ReactJS techniques, and diving deeper into Flutter for mobile development.
 
-💞️ I’m looking to collaborate on open-source projects, front-end development, and cross-platform mobile apps.
+💞️ I’m looking to collaborate on open-source projects, web development, and cross-platform mobile apps.
 
 📫 How to reach me: You can email me at chriscodez04@email.com.
 
